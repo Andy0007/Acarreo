@@ -42,3 +42,4 @@ Route::controller(IndexController::class)->group(function(){
     Route::post('/operador_index', 'operador_index')
         ->name('operador.index');
 });
+

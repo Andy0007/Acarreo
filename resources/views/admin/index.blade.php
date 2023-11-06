@@ -1,6 +1,2 @@
-@extends('templates.template')
-
-@section('content')
-
-@endsection
+<h1>Administrador</h1>
 
